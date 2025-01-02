@@ -24,7 +24,7 @@ const HomePage = () => {
       >
         Book a Table Now
       </button>
-      <div className="mt-12 flex flex-col lg:flex-row gap-8">
+      <div className="mt-12 max-w-[1200px] flex flex-col lg:flex-row gap-8">
         <div className="p-6 bg-white bg-opacity-20 rounded-lg shadow-lg">
           <h3 className="lg:text-2xl text-lg font-bold">Easy to Use</h3>
           <p className="mt-2 lg:text-md text-sm">
